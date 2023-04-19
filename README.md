@@ -37,6 +37,6 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
 ## Deployment
-Git pages:
+Git pages: https://pietroxero.github.io/react_portfolio/
 
-Github repo:
+Github repo: https://github.com/Pietroxero/react_portfolio 
