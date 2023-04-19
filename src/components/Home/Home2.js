@@ -24,7 +24,7 @@ function Home2() {
               SINCE FINISHING THE BOOTCAMP I FEEL AS IF I HAVE AT LEAST LEARNED
               SOMETHING, I THINK... 🤷‍♂️
               <br />
-              <br />I am fluent in classic languages hits such as (but not limited to)
+              <br />I am fluent in classic language hits such as (but not limited to)
               <i>
                 <b className="purple"> Javascript, HTML, CSS, React, Progressive Web Apps, Express.js, Node.js. </b>
               </i>
