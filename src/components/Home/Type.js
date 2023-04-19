@@ -9,7 +9,7 @@ function Type() {
           "Program Manager",
           "Developer",
           "Full Stack Developer",
-          "Individual contributor Contributor",
+          "Individual Contributor",
         ],
         autoStart: true,
         loop: true,
