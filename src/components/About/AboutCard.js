@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hello One and All, I am <span className="purple">Peter Del Sol </span>
             from <span className="purple"> Los Angeles, CA</span>
-            <br />I am a currently working as a Program Manager in digital finance for about
+            <br />I am a currently working as a Program Manager in digital finance for a
               well established tech company, and looking for free-lance work to fill my spare time.
             <br />
             <br />
