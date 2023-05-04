@@ -81,6 +81,17 @@ function Projects() {
 
             />
           </Col>
+
+<Col md={4} className="project-card">
+            <ProjectCard
+            imgPath={freelancer}
+              isBlog={false}
+              title="Profile Maker"
+              description="For this project, the task was to showcase collaborative skills and coding abilities, especially in the context of a scalable, user-focused MERN app"
+              ghLink="https://github.com/Pietroxero/freelancer"
+
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
