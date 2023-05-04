@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/react_portfolio/static/css/main.07e186cb.css",
-    "main.js": "/react_portfolio/static/js/main.49a07bdb.js",
+    "main.css": "/react_portfolio/static/css/main.e7493856.css",
+    "main.js": "/react_portfolio/static/js/main.dd009a8d.js",
     "static/js/787.b7a5f803.chunk.js": "/react_portfolio/static/js/787.b7a5f803.chunk.js",
     "static/media/logo.png": "/react_portfolio/static/media/logo.c5aed6ee2678409556f2.png",
     "static/media/home-bg.jpg": "/react_portfolio/static/media/home-bg.9e7cb5935a2f48f68fc6.jpg",
     "static/media/ecommerce.png": "/react_portfolio/static/media/ecommerce.eb4d8c7641e35501c3c8.png",
     "static/media/solpeter.pdf": "/react_portfolio/static/media/solpeter.d19dbf3b73f094067136.pdf",
-    "static/media/home-main.svg": "/react_portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-main.svg": "/react_portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/freelancer.png": "/react_portfolio/static/media/freelancer.a1596fc89ae0b7363291.png",
     "static/media/about.png": "/react_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/notes.png": "/react_portfolio/static/media/notes.b92cf0d5abbb50e37e2c.png",
     "static/media/planner.png": "/react_portfolio/static/media/planner.335e085d569687b81825.png",
     "static/media/weather.png": "/react_portfolio/static/media/weather.da82d90df1524122d7db.png",
     "static/media/profile.png": "/react_portfolio/static/media/profile.b07d48dd2431be165332.png",
-    "static/media/avatar.svg": "/react_portfolio/static/media/avatar.a8a34203d8ed7abc3a282416905465b1.svg",
-    "static/media/pre.svg": "/react_portfolio/static/media/pre.f67229aaeff761db0dd5.svg",
+    "static/media/avatar.svg": "/react_portfolio/static/media/avatar.9c0f39c6dd5df1b7da8086c397d3cd13.svg",
+    "static/media/pre.svg": "/react_portfolio/static/media/pre.6441a707bb4213e67632.svg",
     "index.html": "/react_portfolio/index.html",
-    "main.07e186cb.css.map": "/react_portfolio/static/css/main.07e186cb.css.map",
-    "main.49a07bdb.js.map": "/react_portfolio/static/js/main.49a07bdb.js.map",
+    "main.e7493856.css.map": "/react_portfolio/static/css/main.e7493856.css.map",
+    "main.dd009a8d.js.map": "/react_portfolio/static/js/main.dd009a8d.js.map",
     "787.b7a5f803.chunk.js.map": "/react_portfolio/static/js/787.b7a5f803.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07e186cb.css",
-    "static/js/main.49a07bdb.js"
+    "static/css/main.e7493856.css",
+    "static/js/main.dd009a8d.js"
   ]
 }
