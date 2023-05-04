@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
+ import freelancer from "../../Assets/Projects/freelancer.png";
  import planner from "../../Assets/Projects/planner.png";
  import notes from "../../Assets/Projects/notes.png";
  import ecommerce from "../../Assets/Projects/ecommerce.png";
